@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1972
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{737D5338-DAD9-460C-BF3F-8213AD37EF3D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dream", "Dream\Dream.vcxproj", "{795DC1E4-AE30-40DC-9B67-129238F3F657}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{795DC1E4-AE30-40DC-9B67-129238F3F657}.Debug|x64.ActiveCfg = Debug|x64
+		{795DC1E4-AE30-40DC-9B67-129238F3F657}.Debug|x64.Build.0 = Debug|x64
+		{795DC1E4-AE30-40DC-9B67-129238F3F657}.Release|x64.ActiveCfg = Release|x64
+		{795DC1E4-AE30-40DC-9B67-129238F3F657}.Release|x64.Build.0 = Release|x64
+		{737D5338-DAD9-460C-BF3F-8213AD37EF3D}.Debug|x64.ActiveCfg = Debug|x64
+		{737D5338-DAD9-460C-BF3F-8213AD37EF3D}.Debug|x64.Build.0 = Debug|x64
+		{737D5338-DAD9-460C-BF3F-8213AD37EF3D}.Release|x64.ActiveCfg = Release|x64
+		{737D5338-DAD9-460C-BF3F-8213AD37EF3D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {595A0AFA-4071-44B6-A083-50C542C85D68}
+	EndGlobalSection
+EndGlobal
